@@ -1,0 +1,2 @@
+"bookwork-code bookwork-code-clickable" to get bookmark code
+document.getElementsByClassName("number-input") gives list of any user inputs
